@@ -1,2 +1,2 @@
 # biotools
-this a web tools for zhang lab used.
+This a web tools for zhang lab used.
