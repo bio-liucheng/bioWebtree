@@ -11,7 +11,7 @@ This is just part of the summary. If you have more supplement websites that you 
 
 
 ## Genome
-### Sequence
+### **Sequence**
 #### UCSC  https://genome.ucsc.edu/
 + Chromosome tracker (Gene -- position)
 + DNA sequence (Gene name, Chr position)
@@ -20,14 +20,14 @@ This is just part of the summary. If you have more supplement websites that you 
 + DNA sequence (Gene name)
 + Exon, intron, transcript variant
 
-### Mutation
+### **Mutation**
 #### TCGA https://portal.gdc.cancer.gov/
 + Cancer mutation
 #### COMICS https://cancer.sanger.ac.uk/cosmic
 + Cancer mutations
 + Cell lines mutations
 
-### Expression
+### **Expression**
 #### CCLE https://portals.broadinstitute.org/ccle
 + Gene expression in cell lines
 + Cell lines mutations
