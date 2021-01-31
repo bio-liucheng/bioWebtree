@@ -57,7 +57,7 @@ This is just part of the summary. If you have more supplement websites that you 
 - No normal data
 #### oncomine https://www.oncomine.org/
 + Expression comparsion (normal vs tumor)
-+ Multiple datasets
++ Multiple datasets (GEO, TCGA)
 + Overview
 - Does not support download
 - Note: Registration required
