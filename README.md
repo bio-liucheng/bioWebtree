@@ -21,7 +21,7 @@ This is just part of the summary. If you have more supplement websites that you 
 + Exon, intron, transcript variant
 
 ### **Mutation**
-#### TCGA https://portal.gdc.cancer.gov/
+#### TCGA-GDC https://portal.gdc.cancer.gov/
 + Cancer mutation
 + Impact Categories
 - Only TCGA
