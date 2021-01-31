@@ -23,7 +23,7 @@ This is just part of the summary. If you have more supplement websites that you 
 ### **Mutation**
 #### TCGA https://portal.gdc.cancer.gov/
 + Cancer mutation
-- TCGA
+- Only TCGA
 #### COMICS https://cancer.sanger.ac.uk/cosmic
 + Cancer mutations
 + Cell lines mutations
