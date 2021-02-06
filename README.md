@@ -75,3 +75,31 @@ This is just part of the summary. If you have more supplement websites that you 
 
 #### corpan http://39.97.163.75/corpan/
 + Correlation between two genes in pancancer
+
+
+## Protein
+### **Sequence**
+### **Domain**
+#### UniProt  https://www.uniprot.org/
++ Overviews about protein
++ download Fasta form
++ Blast protein sequence
+
+### **Modification**
+#### GPS  http://gps.biocuckoo.cn/
++ Predict protien post-translation modifications(site/enzyme)
++ online Illustrate
++ Database (PTM/autophagy/phase separation/etal)
+
+#### PhosphoSitePlus  https://www.phosphosite.org/homeAction
++ High/low Throughput sites
+
+### **Location**
+#### Human Protein Atlas  http://www.proteinatlas.org/
++ tissue expression/cell sublocation
++ IF image
+
+## Functions
+### **Already Known**
+#### GeneCards  https://www.genecards.org
++ most comprehensive resource to know a new gene
