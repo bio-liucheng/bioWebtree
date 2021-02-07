@@ -73,7 +73,7 @@ This is just part of the summary. If you have more supplement websites that you 
 + Correlation between genes
 + Survival, most differential survival genes
 
-#### corpan http://39.97.163.75/corpan/
+#### corpan http://sc-brca.cn/corpan/
 + Correlation between two genes in pancancer
 
 
